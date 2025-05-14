@@ -9,7 +9,7 @@ This is a modern and stylish To-Do List application built using React + Vite. It
 -  Filter tasks (All / Active / Completed)
 
 ## 📸 Screenshot
-![Screenshot](./todolist.PNG)
+![Screenshot](todolist.PNG)
 
 
 ## 🛠️ Tech Stack
