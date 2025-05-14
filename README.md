@@ -31,4 +31,14 @@ src/
 ├── index.css
 
 ### How to Run This Application Locally
+#### 1. **Clone the repository**:
+##  run commands
+-npm install
+-npm run dev
+➜  Local:   http://localhost:5174/
+
+
+
+
+
 
